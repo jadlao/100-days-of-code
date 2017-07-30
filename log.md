@@ -2,11 +2,11 @@
 
 ### Day 1: Sunday July 30, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Worked through Advanced Beginner Challenge first React app tutorial. Completed it and pushed code to Github.
 
-**Thoughts:** 
+**Thoughts**: Figured out how to install dependencies via package.json files using npm scripts, and how it ties in with using other packages to compile JSX code to JS, both for a development and production environment.
 
-**Link to work:** 
+**Link(s) to work**: https://github.com/jadlao/reactSearchApp
 
 
 ### Day 2: Monday July 31, 2017
@@ -22,7 +22,7 @@
 
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts**: 
 
-**Link(s) to work**:
+**Link(s) to work**: 
 
