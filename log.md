@@ -9,16 +9,14 @@
 **Link(s) to work**: https://github.com/jadlao/reactSearchApp
 
 
-### Day 2: Monday July 31, 2017
+### Day 2: Tuesday August 1, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Watched a whole bunch of videos on various aspects of React, including setup and workspace, state and props, and Redux. Coded a Todo app tutorial.
 
-**Thoughts**: 
-
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/jadlao/reactTodoApp
 
 
-### Day 3: Tuesday August 1, 2017
+### Day 3: Wednesday August 2, 2017
 
 **Today's Progress**: 
 
