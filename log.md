@@ -18,9 +18,22 @@
 
 ### Day 3: Wednesday August 2, 2017
 
+**Today's Progress**: Started coding an interactive retail product page tutorial using React and Cloudinary. Set up the app using create-react-app.
+
+
+### Day 4: Thursday August 3, 2017
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**: 
 
+
+### Day 5: Friday August 4, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
