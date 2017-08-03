@@ -23,11 +23,7 @@
 
 ### Day 4: Thursday August 3, 2017
 
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
+**Today's Progress**: Coded the rest of the retail product page tutorial. Still have to figure out how to get the images up and running though. 
 
 
 ### Day 5: Friday August 4, 2017
