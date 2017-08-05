@@ -28,9 +28,9 @@
 
 ### Day 5: Saturday August 5, 2017
 
-**Today's Progress**: Finished coding the retail product page tutorial. Finally managed to get the images working - code was missing a colon! Read a tutorial on Redux to gain high-level overview.
+**Today's Progress**: Finished coding the retail product page tutorial. Finally managed to get the images working - code was missing a colon! Read a tutorial on Redux to gain high-level overview. Started tic tac toe app using Vue.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/jadlao/cloudinary-react-tute
 
 
 ### Day 6: Sunday August 6, 2017
