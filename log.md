@@ -26,7 +26,23 @@
 **Today's Progress**: Coded the rest of the retail product page tutorial. Still have to figure out how to get the images up and running though. 
 
 
-### Day 5: Friday August 4, 2017
+### Day 5: Saturday August 5, 2017
+
+**Today's Progress**: Finished coding the retail product page tutorial. Finally managed to get the images working - code was missing a colon! Read a tutorial on Redux to gain high-level overview.
+
+**Link(s) to work**: 
+
+
+### Day 6: Sunday August 6, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+### Day 7: Monday August 7, 2017
 
 **Today's Progress**: 
 
