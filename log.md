@@ -35,11 +35,9 @@
 
 ### Day 6: Sunday August 6, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started doing tic tac toe tutorial using Vue. Have a few errors I need to look into to fix.
 
-**Thoughts**: 
-
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/jadlao/vueTictactoe
 
 
 ### Day 7: Monday August 7, 2017
