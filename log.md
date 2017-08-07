@@ -42,6 +42,22 @@
 
 ### Day 7: Monday August 7, 2017
 
+**Today's Progress**: Worked through and played around with Gatsby React Static Site Generator tutorials.
+
+**Thoughts**: Thinking of using Gatsby for my portfolio site.
+
+
+### Day 8: Tuesday August 8, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+### Day 9: Wednesday August 9, 2017
+
 **Today's Progress**: 
 
 **Thoughts**: 
