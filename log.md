@@ -49,11 +49,9 @@
 
 ### Day 8: Tuesday August 8, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Continued working through tic tac toe tutorial. Got most of it working, just stuck on text showing which player (X or O) won.
 
-**Thoughts**: 
-
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/jadlao/vueTictactoe
 
 
 ### Day 9: Wednesday August 9, 2017
