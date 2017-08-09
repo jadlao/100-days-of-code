@@ -56,6 +56,20 @@
 
 ### Day 9: Wednesday August 9, 2017
 
+**Today's Progress**: Worked on React + Redux Bookshop app tutorial and got it up and running. Have to revisit this again to soak in the concepts.
+
+
+### Day 10: Thursday August 10, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+### Day 11: Friday August 11, 2017
+
 **Today's Progress**: 
 
 **Thoughts**: 
