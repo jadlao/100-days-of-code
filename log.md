@@ -61,11 +61,7 @@
 
 ### Day 10: Thursday August 10, 2017
 
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
+**Today's Progress**: Took a step back and strategized how I plan on learning React, and building apps. Fixed syntax errors in tic tac toe Vue app.
 
 
 ### Day 11: Friday August 11, 2017
