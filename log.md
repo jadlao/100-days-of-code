@@ -66,7 +66,7 @@
 
 ### Day 11: Friday August 11, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Played around with vue-router and got a simple vue single page application running.
 
 **Thoughts**: 
 
