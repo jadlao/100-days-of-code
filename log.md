@@ -66,8 +66,19 @@
 
 ### Day 11: Friday August 11, 2017
 
-**Today's Progress**: Played around with vue-router and got a simple vue single page application running.
+**Today's Progress**: Played around with vue-router and got a simple vue single page application running. Going through the official React tutorial, back to basics.
 
-**Thoughts**: 
 
-**Link(s) to work**: 
+### Day 12: Saturday August 12, 2017
+
+**Today's Progress**: 
+
+
+### Day 13: Sunday August 13, 2017
+
+**Today's Progress**: 
+
+
+### Day 14: Monday August 14, 2017
+
+**Today's Progress**: 
