@@ -71,7 +71,7 @@
 
 ### Day 12: Saturday August 12, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Finished the official React tutorial, and still working on bit I'm stuck on with the FCC Wikipedia Viewer project.
 
 
 ### Day 13: Sunday August 13, 2017
