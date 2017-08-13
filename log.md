@@ -76,7 +76,7 @@
 
 ### Day 13: Sunday August 13, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started building FCC project recipe box app using React. Used ES5 syntax for creating components instead of ES6 classes.
 
 
 ### Day 14: Monday August 14, 2017
