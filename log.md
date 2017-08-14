@@ -81,4 +81,14 @@
 
 ### Day 14: Monday August 14, 2017
 
+**Today's Progress**: Practiced creating React components without using ES6 syntax. Creating stylesheet for JS calculator app.
+
+
+### Day 15: Tuesday August 15, 2017
+
+**Today's Progress**: 
+
+
+### Day 16: Wednesday August 16, 2017
+
 **Today's Progress**: 
