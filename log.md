@@ -84,11 +84,11 @@
 **Today's Progress**: Practiced creating React components without using ES6 syntax. Creating stylesheet for JS calculator app.
 
 
-### Day 15: Tuesday August 15, 2017
+### Day 15: Saturday August 19, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Worked on a React Todo App using Webpack
 
 
-### Day 16: Wednesday August 16, 2017
+### Day 16: Sunday August 20, 2017
 
 **Today's Progress**: 
