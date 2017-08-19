@@ -86,7 +86,7 @@
 
 ### Day 15: Saturday August 19, 2017
 
-**Today's Progress**: Worked on a React Todo App using Webpack
+**Today's Progress**: Worked on a React Todo App using Webpack. Learned how to set up webpack config file
 
 
 ### Day 16: Sunday August 20, 2017
