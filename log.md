@@ -91,11 +91,12 @@
 
 ### Day 16: Sunday August 20, 2017
 
-**Today's Progress**: Fixed issues with wikipedia viewer, and now up and running. Finished React todo app tutorial using webpack.
+**Today's Progress**: Fixed issues with wikipedia viewer, and now up and running. Finished React todo app tutorial using webpack. Restyled Itunes song listener app.
 
 **Link(s) to work**: 
-https://jadlao.github.io/wikiViewer/
-https://github.com/jadlao/reactTodos
+- https://jadlao.github.io/wikiViewer/
+- https://github.com/jadlao/reactTodos
+- https://jadlao.github.io/itunesViewer
 
 
 ### Day 17: Monday August 21, 2017
