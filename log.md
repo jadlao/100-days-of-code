@@ -93,7 +93,9 @@
 
 **Today's Progress**: Fixed issues with wikipedia viewer, and now up and running. Finished React todo app tutorial using webpack.
 
-**Link(s) to work**: https://jadlao.github.io/wikiViewer/
+**Link(s) to work**: 
+https://jadlao.github.io/wikiViewer/
+https://github.com/jadlao/reactTodos
 
 
 ### Day 17: Monday August 21, 2017
