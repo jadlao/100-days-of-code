@@ -91,7 +91,7 @@
 
 ### Day 16: Sunday August 20, 2017
 
-**Today's Progress**: Fixed issues with wikipedia viewer, and now up and running.
+**Today's Progress**: Fixed issues with wikipedia viewer, and now up and running. Finished React todo app tutorial using webpack.
 
 **Link(s) to work**: https://jadlao.github.io/wikiViewer/
 
