@@ -99,11 +99,11 @@
 - https://jadlao.github.io/itunesViewer
 
 
-### Day 17: Monday August 21, 2017
+### Day 17: Tuesday August 22, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Integrated portfolio site with Jekyll static site generator for blog.
 
 
-### Day 18: Tuesday August 22, 2017
+### Day 18: Wednesday August 23, 2017
 
 **Today's Progress**: 
