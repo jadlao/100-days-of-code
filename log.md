@@ -106,4 +106,14 @@
 
 ### Day 18: Wednesday August 23, 2017
 
+**Today's Progress**: Solved issue with jekyll blog regarding css rendering on production site.
+
+
+### Day 19: Thursday August 24, 2017
+
+**Today's Progress**: 
+
+
+### Day 20: Friday August 25, 2017
+
 **Today's Progress**: 
