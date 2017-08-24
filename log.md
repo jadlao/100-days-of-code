@@ -111,7 +111,7 @@
 
 ### Day 19: Thursday August 24, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Restyled Itunes Song Listener.
 
 
 ### Day 20: Friday August 25, 2017
