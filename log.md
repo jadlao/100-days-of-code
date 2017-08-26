@@ -114,6 +114,16 @@
 **Today's Progress**: Restyled Itunes Song Listener.
 
 
-### Day 20: Friday August 25, 2017
+### Day 20: Saturday August 26, 2017
+
+**Today's Progress**: Restyled Wikipedia Viewer. Started coding a React Sample Text Generator tutorial.
+
+
+### Day 21: Sunday August 27, 2017
+
+**Today's Progress**: 
+
+
+### Day 22: Monday August 28, 2017
 
 **Today's Progress**: 
