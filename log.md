@@ -121,7 +121,9 @@
 
 ### Day 21: Sunday August 27, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Finished React sample text generator tutorial. Completed React Netflix clone tutorial.
+
+**Link(s) to work**: http://jadlao-netflixclone.surge.sh/
 
 
 ### Day 22: Monday August 28, 2017
