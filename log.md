@@ -133,16 +133,18 @@
 **Link(s) to work**: http://jadlao-signupform.surge.sh/
 
 
-### Day 23: Tuesday August 29, 2017
+### Day 23: Thursday August 31, 2017
+
+**Today's Progress**: Completed and deployed checkout form using React.
+
+**Link(s) to work**: http://jadlao-checkoutform.surge.sh/
+
+
+### Day 24: Friday September 1, 2017
 
 **Today's Progress**: 
 
 
-### Day 24: Wednesday August 30, 2017
-
-**Today's Progress**: 
-
-
-### Day 25: Thursday August 31, 2017
+### Day 25: Saturday September 2, 2017
 
 **Today's Progress**: 
