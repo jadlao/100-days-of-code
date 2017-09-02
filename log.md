@@ -140,11 +140,11 @@
 **Link(s) to work**: http://jadlao-checkoutform.surge.sh/
 
 
-### Day 24: Friday September 1, 2017
+### Day 24: Saturday September 2, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Played around with setting up a Wordpress site locally using MAMP. Made boilerplate code for task runner using npm scripts.
 
 
-### Day 25: Saturday September 2, 2017
+### Day 25: Sunday September 3, 2017
 
 **Today's Progress**: 
