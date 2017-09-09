@@ -145,6 +145,16 @@
 **Today's Progress**: Played around with setting up a Wordpress site locally using MAMP. Made boilerplate code for task runner using npm scripts. Worked through Vuejs Firebase tutorial.
 
 
-### Day 25: Sunday September 3, 2017
+### Day 25: Saturday September 9, 2017
+
+**Today's Progress**: Worked through school finder fullstack app using react, node.js, express, mongodb.
+
+
+### Day 26: Sunday September 10, 2017
+
+**Today's Progress**: 
+
+
+### Day 27: Monday September 11, 2017
 
 **Today's Progress**: 
