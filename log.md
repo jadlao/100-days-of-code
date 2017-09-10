@@ -152,7 +152,7 @@
 
 ### Day 26: Sunday September 10, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started working on backend of school finder app. Went to freecodecamp sydney meetup and wracked my brains over some react code issues we were having.
 
 
 ### Day 27: Monday September 11, 2017
