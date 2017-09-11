@@ -157,4 +157,14 @@
 
 ### Day 27: Monday September 11, 2017
 
+**Today's Progress**: Completed school finder app, learned how to get mongodb working and connected via mongoose.
+
+
+### Day 28: Tuesday September 12, 2017
+
+**Today's Progress**: 
+
+
+### Day 29: Wednesday September 13, 2017
+
 **Today's Progress**: 
