@@ -160,11 +160,11 @@
 **Today's Progress**: Completed school finder app, learned how to get mongodb working and connected via mongoose.
 
 
-### Day 28: Tuesday September 12, 2017
+### Day 28: Wednesday September 12, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Fixed some issues with Wikipedia Viewer.
 
 
-### Day 29: Wednesday September 13, 2017
+### Day 29: Thursday September 14, 2017
 
 **Today's Progress**: 
