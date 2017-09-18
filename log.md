@@ -165,6 +165,16 @@
 **Today's Progress**: Fixed some issues with Wikipedia Viewer.
 
 
-### Day 29: Thursday September 14, 2017
+### Day 29: Monday September 18, 2017
+
+**Today's Progress**: Worked on react-d3 progressArc component.
+
+
+### Day 30: Tuesday September 19, 2017
+
+**Today's Progress**: 
+
+
+### Day 31: Wednesday September 20, 2017
 
 **Today's Progress**: 
