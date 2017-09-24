@@ -170,9 +170,9 @@
 **Today's Progress**: Worked on react-d3 progressArc component.
 
 
-### Day 30: Tuesday September 19, 2017
+### Day 30: Sunday September 24, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Added dynamic props to progressArc component with ability to toggle percentage of arc filled in (react has to re-render SVG).
 
 
 ### Day 31: Wednesday September 20, 2017
