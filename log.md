@@ -174,6 +174,8 @@
 
 **Today's Progress**: Added dynamic props to progressArc component with ability to toggle percentage of arc filled in (react has to re-render SVG).
 
+**Link(s) to work**: http://jadlao-progressarc.surge.sh/
+
 
 ### Day 31: Wednesday September 20, 2017
 
