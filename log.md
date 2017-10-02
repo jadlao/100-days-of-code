@@ -177,6 +177,16 @@
 **Link(s) to work**: http://jadlao-progressarc.surge.sh/
 
 
-### Day 31: Wednesday September 20, 2017
+### Day 31: Monday October 2, 2017
+
+**Today's Progress**: Made edits to olooq landing page site.
+
+
+### Day 32: Tuesday October 3, 2017
+
+**Today's Progress**: 
+
+
+### Day 33: Wednesday October 4, 2017
 
 **Today's Progress**: 
