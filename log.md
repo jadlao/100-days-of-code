@@ -182,11 +182,11 @@
 **Today's Progress**: Made edits to olooq landing page site.
 
 
-### Day 32: Tuesday October 3, 2017
+### Day 32: Thursday October 5, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Made edits to Olooq landing page and personal portfolio site.
 
 
-### Day 33: Wednesday October 4, 2017
+### Day 33: Friday October 6, 2017
 
 **Today's Progress**: 
