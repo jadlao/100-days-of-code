@@ -187,6 +187,16 @@
 **Today's Progress**: Made edits to Olooq landing page and personal portfolio site.
 
 
-### Day 33: Friday October 6, 2017
+### Day 33: Sunday October 8, 2017
+
+**Today's Progress**: Reviewed some OOP concepts. Started on JS the weird parts course.
+
+
+### Day 34: Monday October 9, 2017
+
+**Today's Progress**: 
+
+
+### Day 35: Tuesday October 10, 2017
 
 **Today's Progress**: 
