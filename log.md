@@ -192,11 +192,11 @@
 **Today's Progress**: Reviewed some OOP concepts. Started on JS the weird parts course.
 
 
-### Day 34: Monday October 9, 2017
+### Day 34: Sunday October 29, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Coded Likehome website from PSD to HTML for practice.
 
 
-### Day 35: Tuesday October 10, 2017
+### Day 35: Monday October 30, 2017
 
 **Today's Progress**: 
