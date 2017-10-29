@@ -196,6 +196,8 @@
 
 **Today's Progress**: Coded Likehome website from PSD to HTML for practice.
 
+**Link(s) to work**: https://jadlao.github.io/likehome
+
 
 ### Day 35: Monday October 30, 2017
 
