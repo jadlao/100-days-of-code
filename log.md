@@ -199,6 +199,11 @@
 **Link(s) to work**: https://jadlao.github.io/likehome
 
 
-### Day 35: Monday October 30, 2017
+### Day 35: Tuesday November 7, 2017
+
+**Today's Progress**: Learned more about web APIs and the POST, PUT, and DELETE methods, as well as oAuth flows.
+
+
+### Day 36: Wednesday November 8, 2017
 
 **Today's Progress**: 
