@@ -206,4 +206,11 @@
 
 ### Day 36: Wednesday November 8, 2017
 
+**Today's Progress**: Refined Likehome website. Changed the font families, font weight, colours, etc.
+
+**Link(s) to work**: https://jadlao.github.io/likehome
+
+
+### Day 36: Wednesday November 8, 2017
+
 **Today's Progress**: 
