@@ -216,7 +216,11 @@
 **Today's Progress**: Added button hover interactions to likehome website.
 
 
-### Day 36: Wednesday November 8, 2017
+### Day 38: Saturday November 11, 2017
+
+**Today's Progress**: Added a few more interactions to likehome website.
+
+
+### Day 39: Sunday November 12, 2017
 
 **Today's Progress**: 
-
