@@ -223,4 +223,10 @@
 
 ### Day 39: Sunday November 12, 2017
 
+**Today's Progress**: Fixed nav hover issue and did final polish of likehome website.
+
+
+
+### Day 40: Monday November 13, 2017
+
 **Today's Progress**: 
