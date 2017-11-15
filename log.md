@@ -231,6 +231,11 @@
 **Today's Progress**: Made SASS template and got Grunt tasks configured.
 
 
-### Day 40: Monday November 13, 2017
+### Day 41: Thursday November 16, 2017
+
+**Today's Progress**: 
+
+
+### Day 42: Friday November 17, 2017
 
 **Today's Progress**: 
