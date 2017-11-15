@@ -226,6 +226,10 @@
 **Today's Progress**: Fixed nav hover issue and did final polish of likehome website.
 
 
+### Day 40: Wednesday November 15, 2017
+
+**Today's Progress**: Made SASS template and got Grunt tasks configured.
+
 
 ### Day 40: Monday November 13, 2017
 
