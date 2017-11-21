@@ -231,11 +231,21 @@
 **Today's Progress**: Made SASS template and got Grunt tasks configured.
 
 
-### Day 41: Thursday November 16, 2017
+### Day 41: Sunday November 19, 2017
+
+**Today's Progress**: fixed some CSS styles to adhere to best practices.
+
+
+### Day 42: Tuesday November 21, 2017
+
+**Today's Progress**: Refactored some javascript code in weather app.
+
+
+### Day 43: Wednesday November 22, 2017
 
 **Today's Progress**: 
 
 
-### Day 42: Friday November 17, 2017
+### Day 44: Thursday November 23, 2017
 
 **Today's Progress**: 
