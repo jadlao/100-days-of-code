@@ -241,9 +241,9 @@
 **Today's Progress**: Refactored some javascript code in weather app.
 
 
-### Day 43: Wednesday November 22, 2017
+### Day 43: Thursday November 23, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Learned some PHP syntax. Got SCSS files working on starter kit.
 
 
 ### Day 44: Thursday November 23, 2017
