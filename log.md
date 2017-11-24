@@ -246,6 +246,21 @@
 **Today's Progress**: Learned some PHP syntax. Got SCSS files working on starter kit.
 
 
-### Day 44: Thursday November 23, 2017
+### Day 44: Friday November 24, 2017
+
+**Today's Progress**: Learned about SASS nesting and variables.
+
+
+### Day 45: Saturday November 25, 2017
+
+**Today's Progress**: 
+
+
+### Day 46: Sunday November 26, 2017
+
+**Today's Progress**: 
+
+
+### Day 47: Monday November 27, 2017
 
 **Today's Progress**: 
