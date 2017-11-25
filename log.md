@@ -253,7 +253,7 @@
 
 ### Day 45: Saturday November 25, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Learned about SASS operators, inheritance, and mixins.
 
 
 ### Day 46: Sunday November 26, 2017
