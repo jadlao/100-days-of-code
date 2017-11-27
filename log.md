@@ -258,9 +258,19 @@
 
 ### Day 46: Sunday November 26, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Studied some PHP, and created React components for spotify clone.
 
 
 ### Day 47: Monday November 27, 2017
+
+**Today's Progress**: Worked on the navigation bar for spotify clone.
+
+
+### Day 48: Tuesday November 28, 2017
+
+**Today's Progress**: 
+
+
+### Day 49: Wednesday November 29, 2017
 
 **Today's Progress**: 
