@@ -266,11 +266,11 @@
 **Today's Progress**: Worked on the navigation bar for spotify clone.
 
 
-### Day 48: Tuesday November 28, 2017
+### Day 48: Friday December 1, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Learned about CSS grid and experimented with CSS animations. Worked on spotify clone components.
 
 
-### Day 49: Wednesday November 29, 2017
+### Day 49: Saturday December 2, 2017
 
 **Today's Progress**: 
