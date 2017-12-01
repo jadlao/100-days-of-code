@@ -273,4 +273,14 @@
 
 ### Day 49: Saturday December 2, 2017
 
+**Today's Progress**: Learned ES6.
+
+
+### Day 50: Sunday December 3, 2017
+
+**Today's Progress**: 
+
+
+### Day 51: Monday December 4, 2017
+
 **Today's Progress**: 
