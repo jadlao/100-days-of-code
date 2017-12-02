@@ -273,7 +273,7 @@
 
 ### Day 49: Saturday December 2, 2017
 
-**Today's Progress**: Learned ES6.
+**Today's Progress**: Learned some ES6. Started making a real estate website using React. Continued working on spotify clone.
 
 
 ### Day 50: Sunday December 3, 2017
