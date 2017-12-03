@@ -278,7 +278,7 @@
 
 ### Day 50: Sunday December 3, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Learned about PHP functions, arrays, loops etc. Continued styling the ad listing component on real estate website.
 
 
 ### Day 51: Monday December 4, 2017
