@@ -283,4 +283,14 @@
 
 ### Day 51: Monday December 4, 2017
 
+**Today's Progress**: Looped data for ad listings on real estate website. Learned PHP global variables, sessions and cookies.
+
+
+### Day 52: Tuesday December 5, 2017
+
+**Today's Progress**: 
+
+
+### Day 53: Wednesday Monday December 6, 2017
+
 **Today's Progress**: 
