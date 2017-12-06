@@ -286,9 +286,9 @@
 **Today's Progress**: Looped data for ad listings on real estate website. Learned PHP global variables, sessions and cookies.
 
 
-### Day 52: Tuesday December 5, 2017
+### Day 52: Wednesday December 6, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Continued working on spotify clone - added gradient backgrounds and card divs.
 
 
 ### Day 53: Wednesday Monday December 6, 2017
