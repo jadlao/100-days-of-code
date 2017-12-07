@@ -291,6 +291,6 @@
 **Today's Progress**: Continued working on spotify clone - added gradient backgrounds and card divs.
 
 
-### Day 53: Wednesday Monday December 6, 2017
+### Day 53: Thursday December 7, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Added images and continued styling spotify clone. Applied CSS Grid to image boxes.
