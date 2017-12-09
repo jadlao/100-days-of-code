@@ -294,3 +294,23 @@
 ### Day 53: Thursday December 7, 2017
 
 **Today's Progress**: Added images and continued styling spotify clone. Applied CSS Grid to image boxes.
+
+
+### Day 54: Saturday December 9, 2017
+
+**Today's Progress**: Finished coding the layout and carousel for spotify clone. Started writing media queries.
+
+
+### Day 55: Sunday December 10, 2017
+
+**Today's Progress**: 
+
+
+### Day 55: Sunday December 10, 2017
+
+**Today's Progress**: 
+
+
+### Day 55: Sunday December 10, 2017
+
+**Today's Progress**: 
