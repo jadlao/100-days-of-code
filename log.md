@@ -303,14 +303,16 @@
 
 ### Day 55: Sunday December 10, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Added animations to spotify clone and made site responsive.
 
 
-### Day 55: Sunday December 10, 2017
+### Day 56: Monday December 11, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Fixed issues with responsive design.
+
+**Link**: https://jadlao-spotify.surge.sh/
 
 
-### Day 55: Sunday December 10, 2017
+### Day 57: Tuesday December 12, 2017
 
 **Today's Progress**: 
