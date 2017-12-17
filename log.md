@@ -313,6 +313,21 @@
 **Link**: https://jadlao-spotify.surge.sh/
 
 
-### Day 57: Tuesday December 12, 2017
+### Day 57: Sunday December 17, 2017
+
+**Today's Progress**: Made a simple CRUD app using PHP and MySQL.
+
+
+### Day 58: Monday December 18, 2017
+
+**Today's Progress**: 
+
+
+### Day 58: Monday December 18, 2017
+
+**Today's Progress**: 
+
+
+### Day 58: Monday December 18, 2017
 
 **Today's Progress**: 
