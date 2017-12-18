@@ -320,14 +320,14 @@
 
 ### Day 58: Monday December 18, 2017
 
+**Today's Progress**: Worked on the form filters for real estate site.
+
+
+### Day 59: Tuesday December 19, 2017
+
 **Today's Progress**: 
 
 
-### Day 58: Monday December 18, 2017
-
-**Today's Progress**: 
-
-
-### Day 58: Monday December 18, 2017
+### Day 60: Wednesday December 20, 2017
 
 **Today's Progress**: 
