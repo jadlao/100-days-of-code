@@ -323,11 +323,26 @@
 **Today's Progress**: Worked on the form filters for real estate site.
 
 
-### Day 59: Tuesday December 19, 2017
+### Day 59: Saturday December 23, 2017
+
+**Today's Progress**: Worked on real estate app and bitcoin profits app.
+
+
+### Day 60: Sunday December 24, 2017
+
+**Today's Progress**: Made starter kit using parcel js.
+
+
+### Day 61: Monday December 25, 2017
 
 **Today's Progress**: 
 
 
-### Day 60: Wednesday December 20, 2017
+### Day 62: Monday December 25, 2017
+
+**Today's Progress**: 
+
+
+### Day 63: Monday December 25, 2017
 
 **Today's Progress**: 
