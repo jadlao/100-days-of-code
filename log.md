@@ -335,12 +335,12 @@
 
 ### Day 61: Monday December 25, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Worked on real estate app, trying to get checkboxes to filter data.
 
 
-### Day 62: Monday December 25, 2017
+### Day 62: Tuesday December 26, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Restyled bitcoin profits app.
 
 
 ### Day 63: Monday December 25, 2017
