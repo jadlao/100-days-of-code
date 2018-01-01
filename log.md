@@ -343,6 +343,16 @@
 **Today's Progress**: Restyled bitcoin profits app.
 
 
-### Day 63: Monday December 25, 2017
+### Day 63: Sunday December 31, 2017
+
+**Today's Progress**: Worked on Laravel simple CRUD app, learning about routing, table migrations, controllers, views, compiling assets.
+
+
+### Day 64: Monday January 1, 2018
+
+**Today's Progress**: Worked on Laravel CRUD app, learning more about Eloquent ORM.
+
+
+### Day 65: Tuesday January 2, 2018
 
 **Today's Progress**: 
