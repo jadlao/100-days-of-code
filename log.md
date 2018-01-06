@@ -353,6 +353,21 @@
 **Today's Progress**: Worked on Laravel CRUD app, learning more about Eloquent ORM.
 
 
-### Day 65: Tuesday January 2, 2018
+### Day 65: Saturday January 6, 2018
+
+**Today's Progress**: Worked on real estate app. Restyled the frontend.
+
+
+### Day 66: Sunday January 7, 2018
+
+**Today's Progress**: 
+
+
+### Day 66: Sunday January 7, 2018
+
+**Today's Progress**: 
+
+
+### Day 66: Sunday January 7, 2018
 
 **Today's Progress**: 
