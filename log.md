@@ -358,16 +358,21 @@
 **Today's Progress**: Worked on real estate app. Restyled the frontend.
 
 
-### Day 66: Sunday January 7, 2018
+### Day 66: Sunday January 14, 2018
+
+**Today's Progress**: Got dummy data to render on real estate site.
+
+
+### Day 67: Monday January 15, 2018
+
+**Today's Progress**: Worked on CSS animations. Started reworking portfolio site.
+
+
+### Day 68: Tuesday January 16, 2018
 
 **Today's Progress**: 
 
 
-### Day 66: Sunday January 7, 2018
-
-**Today's Progress**: 
-
-
-### Day 66: Sunday January 7, 2018
+### Day 69: Wednesday January 17, 2018
 
 **Today's Progress**: 
